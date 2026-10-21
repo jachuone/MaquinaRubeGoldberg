@@ -1,0 +1,13 @@
+newmtl Blanco
+Ka 0.2 0.2 0.2
+Kd 0.94 0.95 0.94
+Ks 0.15 0.15 0.15
+Ns 30
+illum 2
+
+newmtl Rojo
+Ka 0.2 0.02 0.03
+Kd 0.79 0.13 0.16
+Ks 0.15 0.15 0.15
+Ns 30
+illum 2
